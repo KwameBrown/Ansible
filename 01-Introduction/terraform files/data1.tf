@@ -1,6 +1,6 @@
 data "aws_ami" "rhel" {
   most_recent      = true
-  owners           = ["309956199498"]
+  owners           = ["839095253070"]
 
   filter {
     name   = "name"
